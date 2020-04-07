@@ -7,7 +7,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/tdunkley/module-5-project?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/tdunkley?style=social)
 
-Clustering of NBA Players is a project that attempts to group players of similar abilities into performance buckets. 29 Per Game attrbiutes (Field Goal Attempts Per Game, Field Goal Percentage, etc.) and 26 Advanced attributes (Player Efficiency Rating, True Shooting Percentage, etc) were web scraped from https://www.basketball-reference.com/. In addition, several player awards lists were also scraped to contribute to the analysis, including NBA Most Valuable Player, NBA Rookie of the Year and NBA Defensive Player of the Year.
+Clustering of NBA Players is a project that attempts to group players of similar abilities into performance buckets. 29 Per Game attrbiutes (Field Goal Attempts Per Game, Field Goal Percentage, etc.) and 26 Advanced attributes (Player Efficiency Rating, True Shooting Percentage, etc) were web scraped from https://www.basketball-reference.com. In addition, several player awards lists were also scraped to contribute to the analysis, including NBA Most Valuable Player, NBA Rookie of the Year and NBA Defensive Player of the Year.
 
 
 ## Prerequisites
