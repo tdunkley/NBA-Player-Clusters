@@ -7,7 +7,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/tdunkley/module-5-project?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/tdunkley?style=social)
 
-Predicting the Next Cannibus Market in the U.S. is a project that attempts to determine the next state that will legalize recreational cannibus use. Housing Estimates, Demographic Estmates, Housing Charactertistics, Economic Characteristics and Social Characteristics data by State and County from the U.S. Census was used for this analysis. In addition, Religion and Election Data from the Public Religion Research Institute and Legalization Status from DISA was used as well. 
+Clustering of NBA Players is a project that attempts to group players of similar abilities into performance buckets. 29 Per Game attrbiutes (Field Goal Attempts Per Game, Field Goal Percentage, etc.) and 26 Advanced attributes (Player Efficiency Rating, True Shooting Percentage, etc) were web scraped from https://www.basketball-reference.com/. In addition, several player awards lists were also scraped to contribute to the analysis, including NBA Most Valuable Player, NBA Rookie of the Year and NBA Defensive Player of the Year.
 
 
 ## Prerequisites
